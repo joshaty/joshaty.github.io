@@ -1,0 +1,30 @@
+.form {
+    background-color:#EEEEEE;
+    font-size:1.5em
+}
+.rich {
+    color:red;
+}
+.us {
+    color:red;
+}
+.article {
+    background-color:#DFE6E9;
+    text-align:center;
+    font-size:1.5em;
+}
+.p1 {
+    color:#00008B;
+}
+.aside {
+			background-color:#B2BEC3;
+			text-align:center;
+}
+.image {
+				height:300px;
+				width:300px;
+				margin: 0;
+}
+.mask {
+				background-color:#bfd5ff;
+}
