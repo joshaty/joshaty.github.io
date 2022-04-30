@@ -1,0 +1,22 @@
+
+  header {
+    background-color: tomato;
+    color: white;
+    padding: 20;
+    text-align: center;
+    position: static;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+  }
+  
+  header h1 {
+    color: white;
+    display: inline-block;
+  }
+  
+  nav {
+    position: fixed;
+  }
+  
